@@ -1,7 +1,7 @@
 # Healthcare Problem Set - Extra material
 
 In this folder you will find two main files
-  1.- APL Healthcare.exe
+  1.- APL Healthcare.xlsx
   2.- APL Healthcare.pdf      Probaliy, this file will be updated a little after the first one.
  
 The first one, is a spreadsheet that contains an Empirical model of the 4 Tasks in this problem set. I personally used in the problem to 
